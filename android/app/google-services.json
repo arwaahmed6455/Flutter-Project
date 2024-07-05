@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763257000142",
+    "project_id": "hamza-af65e",
+    "storage_bucket": "hamza-af65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763257000142:android:8b39142abee0996484009f",
+        "android_client_info": {
+          "package_name": "com.example.hamza_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrXG0j1I2q0G00QEM876eXuz1gCy4Bs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763257000142:android:1425434c0b0ee45384009f",
+        "android_client_info": {
+          "package_name": "com.example.mwf08c1f"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrXG0j1I2q0G00QEM876eXuz1gCy4Bs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
